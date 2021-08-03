@@ -40,4 +40,3 @@
 ![PowerShell](https://img.shields.io/badge/Terminal-141321?style=flat&logo=PowerShell)
 ![Bash](https://img.shields.io/badge/Bash-141321?style=flat&logo=GNU+Bash)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1Prototype1&theme=tokyonight&langs_count=10&layout=compact)
