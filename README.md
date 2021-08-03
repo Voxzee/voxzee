@@ -1,9 +1,4 @@
-<p align="center">
-<img align="center" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif>
-</p>
 
-                         
-                         
 <h1 align="center">Hi 👋, I'm Harsh Gaikwad</h1>
 <h3 align="center">You can call me Voxzee</h3>
 
