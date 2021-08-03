@@ -2,7 +2,7 @@
 <img align="center" src="https://drive.google.com/file/d/1Om1_6M16aXx6SUD8Ik1Hi63HQciCnkRq/view?usp=sharing">
 </p>
 <h1 align="center">Hi 👋, I'm Harsh Gaikwad</h1>
-<h3 align="center">A boy trying to Figure-Out Stuff!!</h3>
+<h3 align="center">You can call me Voxzee</h3>
 
 - 🟥 I’m an exuberant tech enthusiast and a self taught programmer.
 - 🤿 I’m currently working on a [Kickstarter](https://www.kickstarter.com/projects/1202256831/lumicube-an-led-cube-kit-for-the-raspberry-pi) project. 
