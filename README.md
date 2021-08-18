@@ -1,6 +1,9 @@
-
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+ 
 <h1 align="center">Hi 👋, I'm Harsh Gaikwad</h1>
 <h3 align="center">You can call me Voxzee</h3>
+
+
 
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat-square&logo=apple&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IDE-Xcode-informational?style=flat-square&logo=Xcode&logoColor=white&color=2bbc8a)
@@ -8,11 +11,16 @@
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat-square&logo=GNU-Bash&logoColor=white&color=2bbc8a)
 
+<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+
 
 - 🟥 I’m an exuberant tech enthusiast and a self taught programmer.
 - 🤿 I’m currently working on a [Kickstarter](https://www.kickstarter.com/projects/1202256831/lumicube-an-led-cube-kit-for-the-raspberry-pi) project. 
 - 📟 Discovering new limits everyday.
 - 🟣 Ask me about macOS ios,Swift UI.
+
+
 
 
 ### Contact:<br>
