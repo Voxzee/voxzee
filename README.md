@@ -4,7 +4,6 @@
 
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat-square&logo=apple&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IDE-Xcode-informational?style=flat-square&logo=Xcode&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C/C++-informational?style=flat-square&logo=c&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Swift-informational?style=flat-square&logo=swift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat-square&logo=GNU-Bash&logoColor=white&color=2bbc8a)
