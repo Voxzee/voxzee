@@ -56,6 +56,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voxzee&layout=compact)](https://github.com/voxzee/github-readme-stats)
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=voxzee)  
+
 
 
 
