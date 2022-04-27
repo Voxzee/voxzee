@@ -11,7 +11,7 @@
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat-square&logo=GNU-Bash&logoColor=white&color=2bbc8a)
 
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="50%" align="right" alt="Github Image" src="https://dribbble.com/shots/4188877-Developer-Animated-Icon" />
 
 
 
