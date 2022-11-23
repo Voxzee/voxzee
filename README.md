@@ -24,7 +24,7 @@
 
 
 ### Contact:<br>
-[![Discord](https://img.shields.io/badge/voxzee%230044-141321?style=flat&logo=discord)](https://discord.com)
+[![Discord](https://img.shields.io/badge/voxzee%233077-141321?style=flat&logo=discord)](https://discord.com)
 [![HackerRank](https://img.shields.io/badge/Voxzee-141321?style=flat&logo=HackerRank)](https://www.hackerrank.com/harsh_vox20)
 [![Steam](https://img.shields.io/badge/Voxzee-141321?style=flat&logo=Steam&logoColor=blue)](https://steamcommunity.com/id/VoxzEE_09/)
 [![Gmail](https://img.shields.io/badge/harsh.vox20@gmail.com-141321?style=flat&logo=gmail)](mailto:harsh.vox20@gmail.com)
